@@ -1,11 +1,10 @@
-Im Huy,
-================================================================================================================================
+## Im Huy,
+Aspiring FullStack Developer | Frontend Developer
 
-Web developer and Designer
---------------------------
+---
+
 
 *   I'm based in Ho Chi Minh City
-*   You can contact me at [tpqhnep001@gmail.com](mailto:tpqhuy.work@gmail.com)
-*   [LinkedIn](linkto:https://www.linkedin.com/in/tpqhuy/)
+*   You can contact me at [tpqhuy.work@gmail.com](mailto:tpqhuy.work@gmail.com) 🔗 [LinkedIn](https://www.linkedin.com/in/tpqhuy/) 
 
 
