@@ -1,4 +1,4 @@
-## Im Huy,
+# I'm Huy,
 Aspiring FullStack Developer | Frontend Developer
 
 ---
