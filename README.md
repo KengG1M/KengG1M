@@ -1,5 +1,5 @@
 # I'm Huy,
-Aspiring FullStack Developer | Frontend Developer
+Aspiring SDET | QA/QC
 
 ---
 
