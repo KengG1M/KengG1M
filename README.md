@@ -1,5 +1,5 @@
 # I'm Huy,
-Aspiring SDET | QA/QC
+Aspiring SDET | QA/QC Engineer
 
 ---
 
